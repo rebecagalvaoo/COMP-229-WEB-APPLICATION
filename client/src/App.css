@@ -1,0 +1,29 @@
+.profileImage {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.project {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 70px;
+  text-align: left;
+}
+
+.project img {
+  width: 500px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.project h2 {
+  margin-top: 0;
+}
+
+.project p {
+  margin-bottom: 15px;
+}
